@@ -264,9 +264,9 @@ if loaded_file is not None:
 
         # POIS/GOIS
         if fluid == 'OIL':
-            value_in_situ = POIS(area, ht, phi, sw, ntg) 
+            value_in_situ = POIS(area, ht, phi, sw, ntg, bo) 
         elif fluid == 'GAS':
-            value_in_situ = GOIS(area, ht, phi, sw, ntg)
+            value_in_situ = GOIS(area, ht, phi, sw, ntg, bg)
 
         # Percentile (stock tank)
         p10 = round(np.percentile(value,10),2)
