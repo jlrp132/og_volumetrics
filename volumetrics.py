@@ -221,8 +221,7 @@ iters = st.number_input('Iterations', value=10000)
 left_col_2, right_col_2 = st.beta_columns(2)
 
 graph_out = left_col_2.checkbox(label='Show Graphics')
-graph_prop = right_col_2.checkbox(label='Show Properties Distributions')
-
+graph_prop = right_col_2.checkbox(label='Show Properties Distribution')
 
 if loaded_file is not None:
     df = pd.read_excel(loaded_file)

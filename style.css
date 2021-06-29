@@ -65,6 +65,21 @@ code {
     color: rgb(38, 39, 48);
 }
 
+footer {
+	
+	visibility: hidden;
+	
+	}
+footer:after {
+	content:'2021 Volumetric Calculator'; 
+	visibility: visible;
+	display: block;
+	position: relative;
+	/* background-color: red; */
+	padding: 5px;
+	top: 2px;
+}
+
 /* 
 azul 61, 129, 195
 verde 64, 172, 73 
