@@ -1,22 +1,22 @@
 /* Result numbers */
-code {
+/* code {
     padding: 0.2em 0.4em;
     margin: 0px;
     border-radius: 0.25rem;
     background: rgb(255, 255, 255);
     color: rgb(136, 0, 0);
-}
+} */
 /* Background */
-.css-h9oeas {
+/* .css-h9oeas {
     position: absolute;
     background: rgb(240, 242, 246);
     color: rgb(0, 0, 0);
     inset: 0px;
     overflow: hidden;
-}
+} */
 
 /* Dataframe table */
-.css-sc0g0 {
+/* .css-sc0g0 {
     padding: 0.5rem;
     font-size: 0.8rem;
     font-family: "IBM Plex Mono", monospace;
@@ -29,10 +29,10 @@ code {
     white-space: nowrap;
     text-overflow: ellipsis;
     line-height: 0.75;
-}
+} */
 
 /* Input table */
-.st-bt {
+/* .st-bt {
     background-color: rgb(255, 255, 255);
 }
 .st-bs {
@@ -40,22 +40,22 @@ code {
 }
 .st-bq {
     color: rgb(3, 3, 3);
-}
+} */
 
 /* active checkbox */
-.st-ew {
+/* .st-ew {
     background-color: rgb(64, 172, 73);
-}
+} */
 
-.css-z8764s:hover, .css-z8764s:focus {
+/* .css-z8764s:hover, .css-z8764s:focus {
     color: rgb(255, 255, 255);
     background-color: rgb(61, 129, 195);
     transition: none 0s ease 0s;
     outline: none;
-}
+} */
 
 /* file uploader */
-.css-1syfshr {
+/* .css-1syfshr {
     display: flex;
     -webkit-box-align: center;
     align-items: center;
@@ -63,7 +63,7 @@ code {
     background-color: rgba(61, 129, 195, 0.24);
     border-radius: 0.25rem;
     color: rgb(38, 39, 48);
-}
+} */
 
 footer {
 	
