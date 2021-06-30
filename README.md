@@ -12,7 +12,7 @@ Download [Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sam
 ### Input Parameters
 PARAM |   UNITS : VALUES(Range)
 - NAME     []   : String
-- FLUID    []   : String (OIL | GAS)
+- FLUID    []   : String (OIL or GAS)
 - DEPTH    [m]  : Number
 - AREA     [Km2]: Number
 - AREA_SD  [km2]: Number	
