@@ -1,36 +1,40 @@
 ## OIL & GAS Volumetric Calculator
 
 ***
-Repo for Streamlit app to calculate Original In-place Hydrocarbons and Reserve Estimation
+App to calculate Original In-place Hydrocarbons and Reserve Estimation
 
-**live version**
-[Volumetrics 1.0](https://bit.ly/ogvolum)
+**LIVE** version [Volumetrics 1.0](https://bit.ly/ogvolum)
 
-Download [Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sample_input.xlsx) Sample
+Multiple prospect calculations with .xlsx file input. Just Fill the required fields and drag and drop or select using Browser.
+
+Download [Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sample_input.xlsx) Sample.
 
 ### Input Parameters
-- DEPTH [m]	
-- AREA [Km2]
-- AREA_SD [km2]	
-- HT	[m]
-- HT_SD [m]	
-- PHI []	
-- PHI_SD []	
-- NTG	[]
-- NTG_SD	[]
-- SW	[]
-- SW_SD []	
-- RF	[]
-- RF_SD	[]
-- BO	[]
-- BO_SD	[]
-- BG	[]
-- BG_SD	[]
-- D_AREA [Ha]
-- TRAPSEAL [%]
-- RESROCK [%]
-- SRCMIG [%]
-- TIMING [%]
+PARAM |   UNITS : VALUES(Range)
+- NAME     []   : String
+- FLUID    []   : String (OIL | GAS)
+- DEPTH    [m]  : Number
+- AREA     [Km2]: Number
+- AREA_SD  [km2]: Number	
+- HT	   [m]  : Number 
+- HT_SD    [m]	: Number 
+- PHI      []	: Number 
+- PHI_SD   []	: Number 
+- NTG	   []   : Number 
+- NTG_SD   []   : Number 
+- SW	   []   : Number 
+- SW_SD    []   : Number	
+- RF	   []   : Number
+- RF_SD	   []   : Number
+- BO	   []   : Number
+- BO_SD	   []   : Number
+- BG	   []   : Number
+- BG_SD	   []   : Number
+- D_AREA   [Ha] : Number
+- TRAPSEAL [%]  : Number (0-100)
+- RESROCK  [%]  : Number (0-100)
+- SRCMIG   [%]  : Number (0-100)
+- TIMING   [%]  : Number (0-100)
 
 
  
