@@ -9,6 +9,7 @@ Multiple prospect calculations with .xlsx file input. Just Fill the required fie
 
 Download [Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sample_input.xlsx) Sample.
 
+***
 ### Input Parameters
 | PARAM    |UNITS| VALUES (Range)     |
 |----------|-----|--------------------|
@@ -36,5 +37,5 @@ Download [Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sam
 | SRCMIG   |[%]  | Number (0-100)   |
 | TIMING   |[%]  | Number (0-100)   |
 
-
- 
+***
+<a href="mailto:jlrp132@gmail.com">jlrp132@gmail.com</a>
