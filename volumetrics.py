@@ -1,7 +1,6 @@
 '''
-incluir salida de POIS en dataframe 10 50 90
-incluir seleccion de Percentiles adicionales?
-plots en funciones
+Include number of wells for p10, p90
+github page
 '''
 
 from scipy.stats import norm
