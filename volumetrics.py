@@ -214,7 +214,7 @@ st.markdown('***')
 ### File upload calculations
 loaded_file = st.file_uploader('File Input',type=['xlsx'])
 
-sample_url = '[Download Sample Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sample_input.xlsx)'
+sample_url = '[See Instructions and Download Sample Input Template](https://jlrp132.github.io/og_volumetrics/)'
 st.markdown(sample_url, unsafe_allow_html=True)
 
 iters = st.number_input('Iterations', value=10000)
