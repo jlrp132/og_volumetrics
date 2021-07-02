@@ -38,4 +38,4 @@ Download [Input Template](https://github.com/jlrp132/og_volumetrics/raw/main/sam
 | TIMING   |[%]  | Number (0-100)     |
 
 ***
-<a href="mailto:jlrp132@gmail.com">Contact</a>
+<a href="mailto:jromero@pcr.energy">Contact</a>

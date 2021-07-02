@@ -280,7 +280,6 @@ if loaded_file is not None:
         p90_ip = round(np.percentile(value_in_situ,90),2)
 
         # number of wells in measured area
-        # wells_num = area.mean()/d_area*100
         wells_num = np.percentile(area,50)/d_area*100
 
         # type well cummulative
